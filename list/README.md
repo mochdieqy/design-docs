@@ -2,4 +2,4 @@
 
 # Daftar Aplikasi
 
-* [Catat Hutang](list/catathutang.md)
+* [Catat Hutang](catathutang.md)
