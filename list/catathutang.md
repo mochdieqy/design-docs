@@ -35,9 +35,13 @@ Aplikasi “Catat Hutang” ini dibuat sangat sederhana. Hanya terdiri dari fitu
 
 ![Alt text](../images/catathutang/login.png?raw=true "Login Sequence Diagram")
 
-![Alt text](../images/catathutang/buat-catatan-hutang.png?raw=true "Buat Catatan Hutang Sequence Diagram")
+![Alt text](../images/catathutang/buat.png?raw=true "Buat Catatan Hutang Sequence Diagram")
 
-![Alt text](../images/catathutang/ubah-catatan-hutang.png?raw=true "Ubah Catatan Hutang Sequence Diagram")
+![Alt text](../images/catathutang/lihat.png?raw=true "Lihat Catatan Hutang Sequence Diagram")
+
+![Alt text](../images/catathutang/ubah.png?raw=true "Ubah Catatan Hutang Sequence Diagram")
+
+![Alt text](../images/catathutang/hapus.png?raw=true "Hapus Catatan Hutang Sequence Diagram")
 
 ### Entity Relationship Diagram
 
