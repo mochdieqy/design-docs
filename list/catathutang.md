@@ -49,7 +49,7 @@ Aplikasi “Catat Hutang” ini dibuat sangat sederhana. Hanya terdiri dari fitu
 
 ## Referensi
 
-* [Video](https://www.youtube.com/@MochDieqy)
+* [Video](https://youtu.be/dFPWsugCPDA)
 * [Playstore](https://play.google.com/store/apps/details?id=com.jagonyamvp.catathutang.app&hl=id)
-* [Appstore](https://catathutang.jagonyamvp.com)
+* [Appstore](https://apps.apple.com/us/app/catat-hutang/id6741364543)
 * [Website](https://catathutang.jagonyamvp.com)
